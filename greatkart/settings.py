@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'accounts',
     'store',
     'carts',
+    'orders',
 ]
 
 MIDDLEWARE = [
@@ -138,6 +139,6 @@ MESSAGE_TAGS = {
 # SMTP CONFIGURATION
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'papisdelachance87@gmail.com'
-EMAIL_HOST_PASSWORD = 'nnsrymxpawuvvqjb'
+EMAIL_HOST_PASSWORD = 'mfkzkouhwxhphrbh'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
